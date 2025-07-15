@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Quem leu é viado</h1>;
+    return <h1>Um pequeno passo para a internet, um salto para o programador</h1>;
 }
 
 export default Home;
