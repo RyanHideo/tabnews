@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Quem leu é gay</h1>;
+  return <h1>What this</h1>;
 }
 
 export default Home;
